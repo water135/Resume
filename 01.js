@@ -1,5 +1,5 @@
-alert("欢迎您");
-document.write("<audio src=\"如果有一天我变得很有钱-毛不易·《明日之子 第2期》.mp3\" autoplay=\"autoplay\"></audio>");
+alert("欢迎您的查看");
+document.write("<audio src=\"像我这样的人-毛不易.mp3\" autoplay=\"autoplay\"></audio>");
   		function time() {
 				//获得显示时间的div
 			    today= document.getElementById('showtime');
